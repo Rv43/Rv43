@@ -5,7 +5,7 @@
 - 🌱 Currently diving into advanced problem-solving on platforms like LeetCode and GeeksforGeeks.
 - 💞️ I’m open to collaboration on projects that challenge norms, especially in **machine learning**, **Business Analytics**, and **open-source contributions**.
 - 😄 Pronouns: He/Him
-- 📫 Want to connect? Reach out via [www.linkedin.com/in/raghav-sharma-71a183229] or shoot me an email at your-email@example.com.
+- 📫 Want to connect? Reach out via [www.linkedin.com/in/raghav-sharma-71a183229] or shoot me an email at your-raghavsharmaymca@gmail.com.
 - ⚡ Fun Fact: I can talk endlessly about AI, data, and the magic they bring to life (over a cup of coffee, of course!)
 
 ### What I Do
